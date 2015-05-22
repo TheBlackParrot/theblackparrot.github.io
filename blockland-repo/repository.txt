@@ -74,6 +74,12 @@
 			<changelog:theblackparrot.github.io/blockland-repo/crumble/changelog>
 			<desc:Don't let the arena crumble under you! Be the last man standing!>
 		</channel>
+		<channel:dev>
+			<version:0.3.2-2>
+			<file:theblackparrot.github.io/blockland-repo/crumble/dev/Gamemode_Crumbling_Arena_II.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/crumble/changelog>
+			<desc:Don't let the arena crumble under you! Be the last man standing!>
+		</channel>
 	</addon>
 	<addon:Script_CustomMS>
 		<channel:release>

@@ -76,6 +76,9 @@ table tr:nth-child(n+2) td {
 .testing-br {
 	background-color: #fcc;
 }
+.dev-br {
+	background-color: #fcf;
+}
 img {
 	height: 12pt;
 	width: auto;

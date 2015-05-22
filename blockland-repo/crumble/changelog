@@ -1,3 +1,12 @@
+<version:0.3.2-2>
+	<ul>
+		<li>Attempt to make the ETA timer more accurate</li>
+		<li>Start on rockets, use spawnRockets(amount)</li>
+		<li>Environments are now random</li>
+		<li>Dropped the black hole special modifier</li>
+		<li>Begin debug messages</li>
+	</ul>
+</version>
 <version:0.2.2-1>
 	<ul>
 		<li>Started Support_Updater changelog</li>
