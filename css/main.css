@@ -1,0 +1,88 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 11pt;
+	line-height: 18pt;
+	color: #222;
+}
+.wrapper {
+	width: 1200px;
+	margin: auto;
+	padding: 32px;
+}
+
+h1 {
+	font-size: 36pt;
+	font-weight: 700;
+	text-shadow: 0px 1px 2px rgba(0,0,0,0.33);
+	color: #000;
+	margin-bottom: 24px;
+}
+h2 {
+	font-size: 24pt;
+	font-weight: 300;
+	margin-bottom: 24px;
+}
+p {
+	margin-bottom: 24px;
+}
+hr {
+	border: 0;
+	border-bottom: 1px solid #aaa;
+	margin-bottom: 12px;
+	margin-top: 12px;
+}
+strong {
+	font-weight: 700;
+}
+a {
+	color: #09f;
+	text-decoration: none;
+}
+a:hover {
+	color: #aaa;
+}
+em {
+	font-style: italic;
+}
+tt {
+	font-family: monospace;
+}
+table {
+	width: 100%;
+}
+table tr td {
+	padding: 8px;
+	vertical-align: middle;
+}
+table tr:nth-child(1) td {
+	background-color: #000;
+	color: #fff;
+	font-weight: 700;
+}
+table tr:nth-child(n+2) td {
+}
+.release-br, .unstable-br, .testing-br {
+	font-weight: 700;
+	text-align: right;
+}
+.release-br {
+	background-color: #cfc;
+}
+.unstable-br {
+	background-color: #ffc;
+}
+.testing-br {
+	background-color: #fcc;
+}
+img {
+	height: 12pt;
+	width: auto;
+}
+.note {
+	font-size: 8pt;
+	font-style: italic;
+	color: #666;
+	padding-left: 16px;
+}

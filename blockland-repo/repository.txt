@@ -1,0 +1,91 @@
+<repository>
+	<addon:Gamemode_Brickochet>
+		<channel:testing>
+			<version:0.1.9-1>
+			<file:theblackparrot.github.io/blockland-repo/brickochet/testing/Gamemode_Brickochet.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/brickochet/changelog>
+			<desc:Fire lasers that bounces off of cubes around you!>
+		</channel>
+	</addon>
+	<addon:Client_Mines>
+		<channel:release>
+			<version:1.1.0-1>
+			<file:theblackparrot.github.io/blockland-repo/mines/release/Client_Mines.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/mines/changelog>
+			<desc:Client-sided game of Minesweeper>
+		</channel>
+	</addon>
+	<addon:Gamemode_Mining>
+		<channel:testing>
+			<version:0.9.10-2>
+			<file:theblackparrot.github.io/blockland-repo/mining/testing/Gamemode_Mining.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/mining/changelog>
+			<desc:Mine bricks and make the most profit, upgrading your tools along the way>
+		</channel>
+		<channel:release>
+			<version:0.9.10-2>
+			<file:theblackparrot.github.io/blockland-repo/mining/release/Gamemode_Mining.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/mining/changelog>
+			<desc:Mine bricks and make the most profit, upgrading your tools along the way>
+		</channel>
+	</addon>
+	<addon:Client_Mining>
+		<channel:testing>
+			<version:0.9.10-2>
+			<file:theblackparrot.github.io/blockland-repo/mining/testing/Client_Mining.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/mining/changelog-client>
+			<desc:GUI for Mining>
+		</channel>
+		<channel:release>
+			<version:0.9.10-2>
+			<file:theblackparrot.github.io/blockland-repo/mining/release/Client_Mining.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/mining/changelog-client>
+			<desc:GUI for Mining>
+		</channel>
+	</addon>
+	<addon:Server_CustomServerCommandSystem>
+		<channel:release>
+			<version:0.1.0-1>
+			<file:theblackparrot.github.io/blockland-repo/cscs/release/Server_CustomServerCommandSystem.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/cscs/changelog>
+			<desc:System similar to add-ons for custom server commands>
+		</channel>
+	</addon>
+	<addon:Server_CloudPreferences>
+		<channel:release>
+			<version:0.2.0-1>
+			<file:theblackparrot.github.io/blockland-repo/cloudprefs/release/Server_CloudPreferences.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/cloudprefs/changelog>
+			<desc:Pull server preferences from the cloud>
+		</channel>
+	</addon>
+	<addon:System_XPMSupport>
+		<channel:testing>
+			<version:0.3.4-1>
+			<file:theblackparrot.github.io/blockland-repo/xpm/release/System_XPMSupport.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/xpm/changelog>
+			<desc:Export a specific area of bricks to an XPM image>
+		</channel>
+	</addon>
+	<addon:Gamemode_Crumbling_Arena_II>
+		<channel:testing>
+			<version:0.2.2-1>
+			<file:theblackparrot.github.io/blockland-repo/crumble/testing/Gamemode_Crumbling_Arena_II.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/crumble/changelog>
+			<desc:Don't let the arena crumble under you! Be the last man standing!>
+		</channel>
+	</addon>
+	<addon:Script_CustomMS>
+		<channel:release>
+			<version:1.0.0-1>
+			<restartRequired:1.0.0-1>
+			<file:theblackparrot.github.io/blockland-repo/customms-client/release/Script_CustomMS.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/customms-client/changelog>
+			<desc:Adds support for custom master servers>
+		</channel>
+	</addon>
+</repository>
+
+version	
+channel	
+repository	theblackparrot.github.io/blockland-repo/repository.txt
