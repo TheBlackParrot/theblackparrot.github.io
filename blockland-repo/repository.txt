@@ -92,6 +92,14 @@
 			<desc:Adds support for bridging Blockland chat and an IRC room>
 		</channel>
 	</addon>
+	<addon:Client_MusicPlayer>
+		<channel:release>
+			<version:1.0.0-1>
+			<file:theblackparrot.github.io/blockland-repo/musicplayer/release/Client_MusicPlayer.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/musicplayer/changelog>
+			<desc:Simple loop player>
+		</channel>
+	</addon>
 </repository>
 
 version	
