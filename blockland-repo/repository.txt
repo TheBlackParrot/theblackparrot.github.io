@@ -84,6 +84,14 @@
 			<desc:Adds support for custom master servers>
 		</channel>
 	</addon>
+	<addon:Server_IRCBridge>
+		<channel:testing>
+			<version:0.0.7-1>
+			<file:theblackparrot.github.io/blockland-repo/irc/testing/Server_IRCBridge.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/irc/changelog>
+			<desc:Adds support for bridging Blockland chat and an IRC room>
+		</channel>
+	</addon>
 </repository>
 
 version	
