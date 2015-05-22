@@ -63,7 +63,7 @@ table tr:nth-child(1) td {
 }
 table tr:nth-child(n+2) td {
 }
-.release-br, .unstable-br, .testing-br {
+.release-br, .unstable-br, .testing-br, .dev-br {
 	font-weight: 700;
 	text-align: right;
 }
