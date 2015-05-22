@@ -108,6 +108,14 @@
 			<desc:Customize your chat>
 		</channel>
 	</addon>
+	<addon:Gamemode_Qbe>
+		<channel:release>
+			<version:1.0.0-1>
+			<file:theblackparrot.github.io/blockland-repo/qbe/release/Gamemode_Qbe.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/qbe/changelog>
+			<desc:Essentially a mining DM>
+		</channel>
+	</addon>
 </repository>
 
 version	
