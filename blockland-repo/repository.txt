@@ -100,6 +100,14 @@
 			<desc:Simple loop player>
 		</channel>
 	</addon>
+	<addon:Client_CustomChat>
+		<channel:release>
+			<version:1.0.0-1>
+			<file:theblackparrot.github.io/blockland-repo/chatcus/release/Client_CustomChat.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/chatcus/changelog>
+			<desc:Customize your chat>
+		</channel>
+	</addon>
 </repository>
 
 version	
