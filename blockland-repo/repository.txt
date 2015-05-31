@@ -124,13 +124,13 @@
 	</addon>
 	<addon:Server_Mute>
 		<channel:release>
-			<version:1.0.0-1>
+			<version:1.0.0-2>
 			<file:theblackparrot.github.io/blockland-repo/mute/release/Server_Mute.zip>
 			<changelog:theblackparrot.github.io/blockland-repo/mute/changelog>
 			<desc:Mute annoying players>
 		</channel>
 		<channel:testing>
-			<version:1.0.0-1>
+			<version:1.0.0-2>
 			<file:theblackparrot.github.io/blockland-repo/mute/testing/Server_Mute.zip>
 			<changelog:theblackparrot.github.io/blockland-repo/mute/changelog>
 			<desc:Mute annoying players>
