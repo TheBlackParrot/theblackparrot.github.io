@@ -130,7 +130,7 @@
 			<desc:Mute annoying players>
 		</channel>
 		<channel:testing>
-			<version:1.0.0-2>
+			<version:1.1.0-1>
 			<file:theblackparrot.github.io/blockland-repo/mute/testing/Server_Mute.zip>
 			<changelog:theblackparrot.github.io/blockland-repo/mute/changelog>
 			<desc:Mute annoying players>

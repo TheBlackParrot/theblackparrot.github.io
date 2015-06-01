@@ -1,3 +1,9 @@
+<version:1.1.0-1>
+	1.1.0-1 is testing-only -- the stable version currently remains on 1.0.0-2.
+	<ul>
+		<li>Added shadow muting option</li>
+	</ul>
+</version>
 <version:1.0.0-2>
 	<ul>
 		<li>Fixed bug with permanent mutes giving an invalid timestamp when muted players try to chat.</li>
