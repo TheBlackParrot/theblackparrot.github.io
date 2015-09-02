@@ -2,3 +2,4 @@ Forest of Illusion	TheBlackParrot	Forest_of_Illusion.txt	September 1st, 2015, 04
 Touch Fuzzy Get Dizzy	TheBlackParrot	Touch_Fuzzy_Get_Dizzy.txt	September 2nd, 2015, 03:50 CDT	Level themes involving Fuzzies from Super Mario World 2: Yoshi's Island.
 LOZ3 - Dark World Dungeon [WIP]	TheBlackParrot	LOZ3_Dark_World_Dungeon.txt	September 2nd, 2015, 05:32 CDT	Theme for dungeons in the Dark World from the Legend of Zelda: A Link to the Past.
 Ocarina of Time - Lost Woods	TheBlackParrot	Ocarina_of_Time_Lost_Woods.txt	September 2nd, 2015, 16:55 CDT	Theme for the Lost Woods area in Legend of Zelda: Ocarina of Time.
+Pallet Town	TheBlackParrot	Pallet_Town.txt	September 2nd, 2015, 17:36 CDT	Theme from Pallet Town in various Pokemon games.
