@@ -1,0 +1,63 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Mono:400);
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 11pt;
+	line-height: 18pt;
+	color: #222;
+}
+
+h1 {
+	font-variant: small-caps;
+	font-size: 24pt;
+	font-weight: 300;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 16px;
+	margin-bottom: 16px;
+}
+
+.wrapper {
+	width: calc(100% - 32px);
+	padding: 16px;
+}
+
+.title, .updated, .description {
+	display: block;
+}
+.title {
+	font-weight: 700;
+	font-size: 14pt;
+}
+.updated {
+	font-size: 8pt;
+	color: #999;
+	font-style: italic;
+	line-height: 12pt;
+	border-bottom: 1px dotted #ddd;
+	margin-bottom: 6px;
+}
+.source {
+	background-color: #eee;
+	border: 1px solid #bbb;
+	padding: 8px;
+	width: calc(100% - 18px);
+	font-family: "Roboto Mono", monospace;
+	overflow-x: auto;
+}
+.download {
+	text-align: right;
+	float: right;
+	color: #3af;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+.download:hover {
+	color: #999;
+}
+.description {
+	margin-bottom: 6px;
+}
+.song {
+	margin-bottom: 24px;
+}

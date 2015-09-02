@@ -1,0 +1,7 @@
+TheBlackParrot (18701) [http://theblackparrot.github.io/songs]
+0,1,1,2,3,4,1,1,2,3,4
+d:160
+5C+3G#,5D,5C$,5C+4C,5D,5C$,5C+4D#$,6C+4G#$_,6C+3G#$,5B+3G$,5D$,5D+3B$,5D$,5D+4D+5A#$,5D+4G+5B$_,3G$
+4F#+5F#+5A#$,5D#$,5D#$,4F#+5F#+5A#$,5D#$,5D#$,4F#+5F#+5A#$_
+4F+5F+5A$,5D$,5D$,4F+5F+5A$,5D$,5D$,4F+5F+5A$_
+4F#+5F#+5A#$,5D#$,5D#$,4F#+5F#+5A#$,5D#$,5D#$,4F#+5F#+5A#$,6C$_,4F+5F+5A,$__
