@@ -136,4 +136,12 @@
 			<desc:Mute annoying players>
 		</channel>
 	</addon>
+	<addon:Gamemode_Instability>
+		<channel:dev>
+			<version:0.1.0-1>
+			<file:theblackparrot.github.io/blockland-repo/instability/dev/Gamemode_Instability.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/instability/changelog>
+			<desc:Outlast the rotting saves!>
+		</channel>
+	</addon>
 </repository>
