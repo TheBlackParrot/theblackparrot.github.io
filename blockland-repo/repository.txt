@@ -144,4 +144,18 @@
 			<desc:Outlast the rotting saves!>
 		</channel>
 	</addon>
+	<addon:Server_ChallengeTimer>
+		<channel:release>
+			<version:1.0.0-1>
+			<file:theblackparrot.github.io/blockland-repo/challengetimer/release/Server_ChallengeTimer.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/challengetimer/changelog>
+			<desc:Essentially allows for speedrunning challenge builds>
+		</channel>
+		<channel:testing>
+			<version:1.0.0-1>
+			<file:theblackparrot.github.io/blockland-repo/challengetimer/testing/Server_ChallengeTimer.zip>
+			<changelog:theblackparrot.github.io/blockland-repo/challengetimer/changelog>
+			<desc:Essentially allows for speedrunning challenge builds>
+		</channel>
+	</addon>
 </repository>
