@@ -1,3 +1,8 @@
+<version:2.0.0-1>
+	<ul>
+		<li>Practically almost a rewrite, also pitch controls</li>
+	</ul>
+</version>
 <version:1.0.0-1>
 	<ul>
 		<li>Brought over the version from the RTB backups</li>
